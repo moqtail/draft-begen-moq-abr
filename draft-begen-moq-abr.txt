@@ -9,7 +9,7 @@ Expires: 22 August 2026
 
 
                Considerations for Rate Adaptation in MOQT
-                    draft-begen-moq-rate-adaptation
+                          draft-begen-moq-abr
 
 Abstract
 
@@ -22,7 +22,7 @@ About This Document
    The latest revision of this draft can be found at
    https://moqtail.github.io/draft-begen-moq-abr/draft-begen-moq-
    abr.html.  Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-begen-moq-rate/.
+   https://datatracker.ietf.org/doc/draft-begen-moq/.
 
    Discussion of this document takes place on the Media Over QUIC
    Working Group mailing list (mailto:moq@ietf.org), which is archived
