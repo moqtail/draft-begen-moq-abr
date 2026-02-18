@@ -1,7 +1,7 @@
 ---
 title: "Considerations for Rate Adaptation in MOQT"
 abbrev: moq-rate-adaptation
-docname: draft-begen-moq-rate-adaptation
+docname: draft-begen-moq-abr
 date: {DATE}
 category: std
 
